@@ -1,2 +1,2 @@
-# arth-dsa
+# Arth DSA
 Arth DSA Pratice
